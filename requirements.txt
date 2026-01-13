@@ -1,0 +1,7 @@
+streamlit
+pandas
+img2table
+paddleocr
+paddlepaddle
+pillow
+opencv-python-headless
